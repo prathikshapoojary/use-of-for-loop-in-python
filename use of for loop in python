@@ -1,0 +1,26 @@
+x =['Raj','22',5.2]
+
+for i in x:
+    print(i)
+
+print("---------")
+
+for i in [2.3,5,'hello']:
+    print(i)    
+
+print("---------")
+
+for i in range(11,25,2):
+    print(i)
+
+print("---------")
+
+for i in range(10,5,-1):
+    print(i)
+
+print("---------")
+
+for i in range(1,10):
+    if(i%2!=0):
+        print(i)
+
